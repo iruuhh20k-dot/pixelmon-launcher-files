@@ -1,14 +1,64 @@
 {
   "files": [
     {
-      "path": "mods/mod1.jar",
-      "url": "https://raw.githubusercontent.com/SEUUSER/SEUREPO/main/modpack/mods/mod1.jar",
-      "hash": "ABC123"
+      "path": "config/pixelmon.hocon",
+      "url": "https://drive.google.com/uc?export=download&id=1ShbbVy1-GWdDTAPfLIhcf9M3_rJS5bEy",
+      "hash": "729C51A30211B3079C9E97A995675A1D"
     },
     {
-      "path": "config/config.cfg",
-      "url": "https://raw.githubusercontent.com/SEUUSER/SEUREPO/main/modpack/config/config.cfg",
-      "hash": "XYZ789"
+      "path": "mods/[1.12.2]togglesneak-3.3.6.jar",
+      "url": "https://drive.google.com/uc?export=download&id=1Oegv6WTIXmrtvO7gf-8z5ciw0TOj4r3v",
+      "hash": "EFB59C45909DCC56357B33DC6C91843F"
+    },
+    {
+      "path": "mods/Clumps-3.1.2.jar",
+      "url": "https://drive.google.com/uc?export=download&id=1NIZTMgqUxrs6YC3HOrluSh0xwKCRltaz",
+      "hash": "E0C4C4F04AEB0E0A48FC7534F9E7D6BE"
+    },
+    {
+      "path": "mods/CraftTweaker2-1.12-4.1.20.711.jar",
+      "url": "https://drive.google.com/uc?export=download&id=1cr3wrmLqRIUHFCfOYCRuD0wW6qHLR-Wq",
+      "hash": "6B7EA027435E07CC6F343E490BAA1CB3"
+    },
+    {
+      "path": "mods/CustomSkinLoader_ForgeV1-14.27.jar",
+      "url": "https://drive.google.com/uc?export=download&id=1mKBe2WOPEb98R_XTIom_Td-NZXYAn63U",
+      "hash": "473B350DAC77AB3E6379E69C7F44109A"
+    },
+    {
+      "path": "mods/jei_1.12.2-4.16.1.1013.jar",
+      "url": "https://drive.google.com/uc?export=download&id=1kThW9nRjho_5-ZTGjDVsKBkbo_DqS4pC",
+      "hash": "155469B1E6BE853BA4B273044BC4A68E"
+    },
+    {
+      "path": "mods/lucky-block-forge-1.12.2-2.0.jar",
+      "url": "https://drive.google.com/uc?export=download&id=1wMymGG2u54ofHSfXKTnyfv05UEH0l_KM",
+      "hash": "4EA75B988CD1EC2563A3050FBE90B5D1"
+    },
+    {
+      "path": "mods/OptiFine_1.12.2_HD_U_E3.jar",
+      "url": "https://drive.google.com/uc?export=download&id=1a6UuQa8UUlPuxtxEof5vci4RJnRfaWsF",
+      "hash": "7EC95C57AC1A224D6EB93BD370E4AC37"
+    },
+    {
+      "path": "mods/Pixelmon-1.12.2-8.4.3-universal.jar",
+      "url": "https://drive.google.com/uc?export=download&id=1gDvUZcBZ4sGhQPBpeVgjMbvbVLGV--qR",
+      "hash": "8584A4B9E820743F3058872E713C714F"
+    },
+    {
+      "path": "mods/pokelucky-RG-6.14.10(1.12.2).jar",
+      "url": "https://drive.google.com/uc?export=download&id=1aj-MeHrsCU-lZ-3I2wyPmX-sLXQBhEe0",
+      "hash": "32FC63A6ACDDA027D32F416F4DCB95D9"
+    },
+    {
+      "path": "mods/TravelersBackpack-1.12.2-1.0.35.jar",
+      "url": "https://drive.google.com/uc?export=download&id=1p_9R6AW3BDezVs0XPlM9SzrlpdudQTCl",
+      "hash": "EC9E10A72424DC0D0FD73E5AF8D6544D"
+    },
+    {
+      "path": "scripts/Fix.zs",
+      "url": "https://drive.google.com/uc?export=download&id=1EtwCu39dT62zXfrwYV1ELCnudo4CkPaU",
+      "hash": "F040907824E33BF7FD06741D42F95819"
     }
   ]
 }
