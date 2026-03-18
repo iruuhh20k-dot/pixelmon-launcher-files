@@ -41,14 +41,14 @@
       "hash": "7EC95C57AC1A224D6EB93BD370E4AC37"
     },
     {
-      "path": "mods/pixelmonmod.jar",
-      "url": "https://drive.google.com/uc?export=download&id=1E8Fi3xtq2A_ox3ECbrO8xHNFMyAIVp3M",
-      "hash": "8584A4B9E820743F3058872E713C714F"
-    },
-    {
       "path": "mods/pokelucky-RG-6.14.10(1.12.2).jar",
       "url": "https://drive.google.com/uc?export=download&id=1aj-MeHrsCU-lZ-3I2wyPmX-sLXQBhEe0",
       "hash": "32FC63A6ACDDA027D32F416F4DCB95D9"
+    },
+        {
+      "path": "mods/Pixelmon-1.12.2-8.4.3-universal.jar",
+      "url": "https://drive.google.com/uc?export=download&id=1CpQJbgGDaaD-SzdNxzAsmQBbjQxwTBNa",
+      "hash": "8584A4B9E820743F3058872E713C714F"
     },
     {
       "path": "mods/TravelersBackpack-1.12.2-1.0.35.jar",
