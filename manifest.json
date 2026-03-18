@@ -1,0 +1,14 @@
+{
+  "files": [
+    {
+      "path": "mods/mod1.jar",
+      "url": "https://raw.githubusercontent.com/SEUUSER/SEUREPO/main/modpack/mods/mod1.jar",
+      "hash": "ABC123"
+    },
+    {
+      "path": "config/config.cfg",
+      "url": "https://raw.githubusercontent.com/SEUUSER/SEUREPO/main/modpack/config/config.cfg",
+      "hash": "XYZ789"
+    }
+  ]
+}
